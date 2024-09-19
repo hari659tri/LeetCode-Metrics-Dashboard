@@ -21,3 +21,7 @@ Configure the necessary API calls.
 Deploy or run locally to view your LeetCode statistics in a visual format.
 
 </h4>
+
+![Screenshot 2024-09-19 142939](https://github.com/user-attachments/assets/918f5c71-9137-4caa-9b03-46897f910aec)
+
+
